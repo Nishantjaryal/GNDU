@@ -58,12 +58,13 @@ function Home() {
                   >
                     Explore Programs
                   </Link>
-                  {/* <a
-                    href="https://rcgsp.gndu.ac.in/index.php/admission-notice-2/"
+                  <a
+                    href="https://docs.google.com/document/d/17EISCszsuIZCKgXLWZxii5qWJUP0pd6Y/edit?usp=sharing&ouid=108339618401964200070&rtpof=true&sd=true"
+                    target="_blank"
                     className="rounded-md border border-white px-6 py-3 label-sm text-white hover:bg-white/10"
                   >
                     Admission notices
-                  </a> */}
+                  </a> 
                 </div>
               </div>
             </div>
